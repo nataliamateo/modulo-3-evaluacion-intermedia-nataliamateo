@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.865c5115.chunk.css",
-    "main.js": "/static/js/main.e7c22761.chunk.js",
-    "main.js.map": "/static/js/main.e7c22761.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2b0b8e08.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2b0b8e08.js.map",
-    "static/js/2.4d98f600.chunk.js": "/static/js/2.4d98f600.chunk.js",
-    "static/js/2.4d98f600.chunk.js.map": "/static/js/2.4d98f600.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b8d5fce57fddcdca6ebf7067df6d6dc1.js": "/precache-manifest.b8d5fce57fddcdca6ebf7067df6d6dc1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.865c5115.chunk.css.map": "/static/css/main.865c5115.chunk.css.map",
-    "static/js/2.4d98f600.chunk.js.LICENSE.txt": "/static/js/2.4d98f600.chunk.js.LICENSE.txt"
+    "main.css": "/modulo-3-evaluacion-intermedia-nataliamateo/static/css/main.865c5115.chunk.css",
+    "main.js": "/modulo-3-evaluacion-intermedia-nataliamateo/static/js/main.cd164778.chunk.js",
+    "main.js.map": "/modulo-3-evaluacion-intermedia-nataliamateo/static/js/main.cd164778.chunk.js.map",
+    "runtime-main.js": "/modulo-3-evaluacion-intermedia-nataliamateo/static/js/runtime-main.ce9a74ec.js",
+    "runtime-main.js.map": "/modulo-3-evaluacion-intermedia-nataliamateo/static/js/runtime-main.ce9a74ec.js.map",
+    "static/js/2.4d98f600.chunk.js": "/modulo-3-evaluacion-intermedia-nataliamateo/static/js/2.4d98f600.chunk.js",
+    "static/js/2.4d98f600.chunk.js.map": "/modulo-3-evaluacion-intermedia-nataliamateo/static/js/2.4d98f600.chunk.js.map",
+    "index.html": "/modulo-3-evaluacion-intermedia-nataliamateo/index.html",
+    "precache-manifest.4c33488f7602722b25466bc4e398b32b.js": "/modulo-3-evaluacion-intermedia-nataliamateo/precache-manifest.4c33488f7602722b25466bc4e398b32b.js",
+    "service-worker.js": "/modulo-3-evaluacion-intermedia-nataliamateo/service-worker.js",
+    "static/css/main.865c5115.chunk.css.map": "/modulo-3-evaluacion-intermedia-nataliamateo/static/css/main.865c5115.chunk.css.map",
+    "static/js/2.4d98f600.chunk.js.LICENSE.txt": "/modulo-3-evaluacion-intermedia-nataliamateo/static/js/2.4d98f600.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b0b8e08.js",
+    "static/js/runtime-main.ce9a74ec.js",
     "static/js/2.4d98f600.chunk.js",
     "static/css/main.865c5115.chunk.css",
-    "static/js/main.e7c22761.chunk.js"
+    "static/js/main.cd164778.chunk.js"
   ]
 }
