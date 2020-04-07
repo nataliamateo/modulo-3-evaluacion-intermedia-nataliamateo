@@ -1,0 +1,16 @@
+.container-item {
+  height: 200px;
+  width: 150px;
+  background-color: rgb(146, 186, 218);
+  margin-bottom: 10px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  justify-items: center;
+}
