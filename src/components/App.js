@@ -6,21 +6,13 @@ import pokemons from "../pokemons.js";
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state =
-      //     // pokemons = [
-      {
-        id: "",
-        name: "",
-        types: [],
-        evolution: "",
-        url: "",
-      };
-    //   // ];
+    this.state = pokemons;
   }
+
   render() {
     return (
       <div className="App">
-        <PokeList pokemons={pokemons} />
+        <PokeList pokemons={this.state} />
       </div>
     );
   }
