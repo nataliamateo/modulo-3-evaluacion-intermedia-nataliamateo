@@ -2,4 +2,20 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  &__title {
+    text-transform: capitalize;
+  }
+  &__list {
+    display: flex;
+    flex-direction: row;
+
+    &--pokemon {
+      list-style: none;
+      background-color: rgb(201, 201, 201);
+      border-radius: 3px;
+      width: auto;
+      padding: 3px;
+      margin: 5px 5px 0 0;
+    }
+  }
 }
