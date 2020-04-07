@@ -4,18 +4,22 @@
   align-items: center;
   &__title {
     text-transform: capitalize;
+    font-size: 18px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-align: center;
   }
   &__list {
     display: flex;
     flex-direction: row;
-
     &--pokemon {
       list-style: none;
       background-color: rgb(201, 201, 201);
       border-radius: 3px;
       width: auto;
       padding: 3px;
-      margin: 5px 5px 0 0;
+      margin: 10px 5px 0 0;
     }
   }
 }
