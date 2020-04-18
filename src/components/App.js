@@ -1,7 +1,6 @@
-import React from "react";
-import "../stylesheets/App.scss";
-import PokeList from "./PokeList";
-import pokemons from "../pokemons.js";
+import React from 'react';
+import PokeList from './PokeList';
+import pokemons from '../pokemons.js';
 
 class App extends React.Component {
   constructor(props) {
@@ -15,7 +14,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="App">
+      <div className='App'>
         <PokeList pokemons={this.state.pokemons} />
       </div>
     );
